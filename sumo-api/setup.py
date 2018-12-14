@@ -190,7 +190,7 @@ setup(
     ext_modules = cythonize(extensions),
     name='sumo',
     version='1.0',
-    url='https://github.com/RishabhJain2018/sumo',
+    url='https://github.com/RishabhJain2018/sumo/sumo-api',
     description='Sumo challenge python package',
     install_requires=requirements,
     packages=find_packages(),
